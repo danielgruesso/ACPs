@@ -80,7 +80,7 @@ The `EffectiveConsumptionRate` calculation is unchanged from the current impleme
 | Floor | 0.30 | 1-year APR ≈ 1.94% | Keeps staking competitive with alternative yield sources (e.g., DeFi lending, L2 staking). Below ~2%, rational capital would exit staking, degrading network security. |
 | Ceiling | 1.00 | 1-year APR ≈ 6.45% | Equivalent to today's rate. No mechanism to increase rewards beyond the current formula's output. |
 
-**MinConsumptionRate: 0.05 – 0.10**
+**MinConsumptionRate: 0.05 – 0.12**
 
 | Bound | Value | Effect | Rationale |
 | :--- | :--- | :--- | :--- |
